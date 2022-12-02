@@ -8,5 +8,10 @@ Print two of them.
 */
 
 void main() {
+  int x,y;
+  x=5;
+  y=7;
+  print(x);
+  print(y);
   // write your code here
 }
